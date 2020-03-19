@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/AleMasin/saludo-random.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alejandro M",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AleMasin/saludo-random/issues"
   },
