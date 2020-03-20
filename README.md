@@ -5,6 +5,6 @@
     npm install @alemas/saludo-random --save
 
 ## Usage
-    const randomSaludo = require('@alemas/saludo-random');
+    const random = require('@alemas/saludo-random');
 
-    const saludo = randomSaludo();
+    const saludo = random.randomSaludo();
