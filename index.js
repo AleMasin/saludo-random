@@ -27,7 +27,7 @@ const saludos = [
 function randomSaludo() {
     return _.sample(saludos);
 }
-  
+
 module.exports = {
     randomSaludo,
 };
