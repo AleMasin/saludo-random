@@ -8,3 +8,6 @@
     const random = require('@alemas/saludo-random');
 
     const saludo = random.randomSaludo();
+
+[![](https://media.giphy.com/media/l5D9x6YPcjsUuQi2PQ/giphy.gif)]()
+
